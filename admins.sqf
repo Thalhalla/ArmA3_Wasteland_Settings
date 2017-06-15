@@ -31,4 +31,6 @@ highAdmins =
 serverOwners = 
 [
 	// Put player UIDs here
+  "76561198048566181", // Jigsaw
+  "76561198048688538" // Thoth
 ];
